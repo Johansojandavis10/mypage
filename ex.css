@@ -1,0 +1,55 @@
+.ok{
+    background-color:royalblue;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.yo{
+    border:thin solid white;
+    background-color: white;
+    border-radius: 5px;
+    padding:20px;
+}
+.six{
+    
+}
+.messi{
+    border:solid lightblue;
+    border-radius: 5px;
+    background-color: rgba(173, 216, 230, 0.404);
+}
+.SIU{
+    border:solid lightblue;
+    border-radius: 5px;
+    background-color: rgba(173, 216, 230, 0.404);
+}
+.Z{
+    border:solid lightblue;
+    border-radius: 5px;
+    background-color: rgba(173, 216, 230, 0.404);
+}
+.op{
+    border:solid lightblue;
+    border-radius: 5px;
+    background-color: rgba(173, 216, 230, 0.404);
+}
+.be{
+    display:grid;
+   border:thin solid white;
+   padding:10px;
+justify-items: end;
+margin-left: 280px;
+background-color: rgba(173, 216, 230, 0.397);
+}
+.a{
+    display:grid;
+    grid-template-columns: 32% 63%;
+    border-bottom: solid 2px rgba(128, 128, 128, 0.541);
+}
+.w{
+    border-top: gray;
+}
+.davis{
+    width:300px;
+border:grey;
+}

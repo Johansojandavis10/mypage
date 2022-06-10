@@ -1,0 +1,109 @@
+.mainclass{
+    border: solid white;
+    display:grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    border-bottom:thin solid grey;
+}
+a{
+    align-items: center;
+    color:blue;
+    text-decoration: none;
+    font-size:20px ;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.links{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.label{
+    display: grid;
+    align-items: center;
+}
+a:hover{
+    background-color: blue;
+    color:white;
+    padding:10px;
+    border-radius:3px ;
+}
+.Contact{
+    border-left:thin solid grey;
+    border-right:thin solid grey ;
+    padding-left: 5px;
+    padding-right: 5px;
+    }
+.omg{
+    color:lightskyblue;
+}
+.its{
+    border:solid white;
+    padding-left:10px;
+    margin-left: 140px;
+    border-bottom:thin solid rgba(135, 206, 250, 0.418);
+    margin-right: 70px;
+}
+.ohmt{
+    border: solid thin grey;
+    width:700px;
+    margin-left: 130px;
+    height: 500px;
+}
+.mainclass3{
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
+}
+.button1{
+    width:400px;
+    height:40px;
+    border-radius:solid thin 20px;
+    margin-left: 5px;
+    color:white;
+    background-color: rgb(53, 180, 230);
+}
+.buttons1{
+    display:grid;
+    grid-template-rows: 1fr 1fr;
+    border:;
+    height:130px;
+}
+.button2{
+    width:400px;
+    height:40px;
+    border-radius:solid thin 20px;
+    margin-left: 5px;
+    color:white;
+    background-color: rgb(39, 45, 128);
+}
+.foot{
+    display:grid;
+    border:;
+}
+.footer{
+    display:grid;
+    grid-template-rows: ;
+    border:;
+    width:400px;
+    margin-left:30px;
+}
+.heading{
+  
+    border-bottom: solid thin lightblue;
+}
+.smallergroups{
+border:solid thin grey;
+
+}
+.p{
+border-bottom: thin solid rgba(128, 128, 128, 0.164);
+padding-left: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+.para{
+    margin-right:500px ;
+    margin-left:135px ;
+    margin-top:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+

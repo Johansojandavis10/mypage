@@ -1,0 +1,68 @@
+.head{
+    text-align:center;
+    color:white;
+}
+.ok{
+    border:solid thin white;
+    width:80px;
+    margin:20 px ;
+    display: grid;
+    grid-template-rows: 300px;
+    
+}
+.don{
+    width:1150px;
+    margin-left:45px;
+    margin-right:40px;
+    
+}
+.pk{
+    font-size: 60 px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:white;
+}
+body{
+    background-color:black ;
+}
+.Parara{
+    display:flex;
+    flex:1;
+    color:white;
+    border:solid thin white;
+    margin-left:50px;
+    margin-right:50px;
+    margin:0 50px 0 50px;
+    padding:10px;
+    font-size:large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    align-items: flex-start;
+}
+.ex{
+    color:white;
+    text-align:center;
+}
+.z{
+border:solid thin black;
+background-color: white;
+}
+.siu{
+    border:thin solid black;
+    width:300px;
+padding:20px;
+}
+.y{
+    color:black;    
+     text-align: calc();
+}
+.album{
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+    border-bottom: 10px;
+}
